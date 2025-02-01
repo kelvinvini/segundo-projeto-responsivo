@@ -11,10 +11,9 @@
 
 <h3>Site visível no Mobile :iphone: </h3>
 
-<img src="https://github.com/kelvinvini/wide-coverage-location/blob/main/img%20mobile/img%20mobile.png?raw=true"> 
-
-<h3>Site visível no Desktop :computer: </h3>
+<img src="https://github.com/kelvinvini/wide-coverage-location/blob/main/img%20mobile/img%20mobile.png?raw=true"> <h3>Site visível no Desktop :computer: </h3>
 
 <img src="https://github.com/kelvinvini/wide-coverage-location/blob/main/img%20desktop/img%20desktop.png?raw=true">
+
 
 
