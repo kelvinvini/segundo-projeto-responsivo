@@ -9,5 +9,6 @@
 <img align="center" width="22px" src="https://img.icons8.com/?size=48&id=21278&format=png"/>
 </p>
 
+<img src="https://github.com/kelvinvini/wide-coverage-location/blob/main/img%20mobile/img%20mobile.png?raw=true"> <img src="https://github.com/kelvinvini/wide-coverage-location/blob/main/img%20desktop/img%20desktop.png?raw=true">
 
-<img src="https://github.com/kelvinvini/wide-coverage-location/blob/main/img%20desktop/img%20desktop.png?raw=true">
+
